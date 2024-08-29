@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Pharmacy.Classes.BL.CosmeticBL">
+    <Position X="2" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAIAAACAAAAAAAAAAAAAAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\BL\CosmeticBL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pharmacy.Classes.BL.DrugBL">
+    <Position X="11.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAgAAAAAAAAgAAAAAAAAAQAAAAAAAAAAAg=</HashCode>
+      <FileName>Classes\BL\DrugBL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pharmacy.Classes.BL.DrugSale">
+    <Position X="14" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAQAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\BL\DrugSale.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pharmacy.Classes.BL.ManufecturerBL">
+    <Position X="13" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACACAAAgAAAAAAAAAAAEAAQABAAEAAAgAAAAIAAAAgA=</HashCode>
+      <FileName>Classes\BL\ManufecturerBL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pharmacy.Classes.BL.MedicalDevicesBL">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAAAgCAAAAIAAEAAAAAAAQAAAAA=</HashCode>
+      <FileName>Classes\BL\MedicalDevicesBL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pharmacy.Classes.BL.ProductsBL">
+    <Position X="5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAgCAAAAAAAQAQAAAAAQIAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\BL\ProductsBL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pharmacy.Classes.BL.SaleBL">
+    <Position X="9.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAABAAABAAAABAAAAAAAAAAAAAAFAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\BL\SaleBL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pharmacy.Classes.BL.SignUpBL">
+    <Position X="8" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAGAAACBgAAAgAAAAQAAACEIAAAgCAQAACgEAAAg=</HashCode>
+      <FileName>Classes\BL\SignUpBL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pharmacy.Classes.BL.VaccineBL">
+    <Position X="0.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAGAAABIAAAAAAAIAAAgAQAAAAAAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>Classes\BL\VaccineBL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pharmacy.Classes.DL.CosmeticDL">
+    <Position X="14.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAQCAAAAIAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>Classes\DL\CosmeticDL.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="cosmetics" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="Pharmacy.Classes.DL.DrugDL">
+    <Position X="2.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAAAAAAAIAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>Classes\DL\DrugDL.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="drugs" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="Pharmacy.Classes.DL.DrugSaleDL">
+    <Position X="14.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\DL\DrugSaleDL.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="drugs" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="Pharmacy.Classes.DL.ManufecturerDL">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAEAAAAAAAAAAAAAAAAAAAAAQAAAA=</HashCode>
+      <FileName>Classes\DL\ManufecturerDL.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="manufecturers" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="Pharmacy.Classes.DL.MedicalDevicesDL">
+    <Position X="5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAABAAAAAAAIAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>Classes\DL\MedicalDevicesDL.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="medicalDevices" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="Pharmacy.Classes.DL.SaleDL">
+    <Position X="13" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\DL\SaleDL.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="sales" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="Pharmacy.Classes.DL.SignUpDL">
+    <Position X="10.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>Classes\DL\SignUpDL.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="users" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="Pharmacy.Classes.DL.VaccineDL">
+    <Position X="0.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAABAAgAAAAAAQ=</HashCode>
+      <FileName>Classes\DL\VaccineDL.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="vaccines" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,277 @@
+D:\Semester 4\DBS Lab\Final Project\Pharmacy\bin\Debug\Pharmacy.exe.config
+D:\Semester 4\DBS Lab\Final Project\Pharmacy\bin\Debug\Pharmacy.exe
+D:\Semester 4\DBS Lab\Final Project\Pharmacy\bin\Debug\Pharmacy.pdb
+D:\Semester 4\DBS Lab\Final Project\Pharmacy\obj\Debug\Pharmacy.csproj.AssemblyReference.cache
+D:\Semester 4\DBS Lab\Final Project\Pharmacy\obj\Debug\Pharmacy.Form1.resources
+D:\Semester 4\DBS Lab\Final Project\Pharmacy\obj\Debug\Pharmacy.Properties.Resources.resources
+D:\Semester 4\DBS Lab\Final Project\Pharmacy\obj\Debug\Pharmacy.csproj.GenerateResource.cache
+D:\Semester 4\DBS Lab\Final Project\Pharmacy\obj\Debug\Pharmacy.csproj.CoreCompileInputs.cache
+D:\Semester 4\DBS Lab\Final Project\Pharmacy\obj\Debug\Pharmacy.exe
+D:\Semester 4\DBS Lab\Final Project\Pharmacy\obj\Debug\Pharmacy.pdb
+D:\Semester 4\DBS Lab\Final Project\Pharmacy\bin\Debug\Guna.UI2.dll
+D:\Semester 4\DBS Lab\Final Project\Pharmacy\obj\Debug\Pharmacy.csproj.CopyComplete
+D:\Semester 4\DBS Lab\Final Project\Pharmacy\obj\Debug\Pharmacy.LoggingIn.resources
+D:\Semester 4\DBS Lab\Final Project\Pharmacy\obj\Debug\Pharmacy.SignIn.resources
+D:\Semester 4\DBS Lab\Final Project\Pharmacy\obj\Debug\Pharmacy.SignUp_UC.resources
+D:\Semester 4\DBS Lab\Final Project\Pharmacy\obj\Debug\Pharmacy.EmplyeeForm.resources
+D:\Semester 4\DBS Lab\Final Project\Pharmacy\obj\Debug\Pharmacy.AdminControl_UC.resources
+D:\Semester 4\DBS Lab\Final Project\Pharmacy\obj\Debug\Pharmacy.EmployeeControls_UC.resources
+D:\Semester 4\DBS Lab\Final Project\Pharmacy\obj\Debug\Pharmacy.Profile.resources
+D:\Semester 4\DBS Lab\Final Project\Pharmacy\obj\Debug\Pharmacy.Manufecturer.resources
+D:\Semester 4\DBS Lab\Final Project\Pharmacy\obj\Debug\Pharmacy.addManufecturer.resources
+D:\Semester 4\DBS Lab\Final Project\Pharmacy\obj\Debug\Pharmacy.AdminRequest.resources
+D:\Semester 4\DBS Lab\Final Project\Pharmacy\obj\Debug\Pharmacy.Cosmetic.resources
+D:\Semester 4\DBS Lab\Final Project\Pharmacy\obj\Debug\Pharmacy.Drug.resources
+D:\Semester 4\DBS Lab\Final Project\Pharmacy\obj\Debug\Pharmacy.EditManufecturer.resources
+D:\Semester 4\DBS Lab\Final Project\Pharmacy\obj\Debug\Pharmacy.MedicalDevice.resources
+D:\Semester 4\DBS Lab\Final Project\Pharmacy\obj\Debug\Pharmacy.Product.resources
+D:\Semester 4\DBS Lab\Final Project\Pharmacy\obj\Debug\Pharmacy.ProductSelection.resources
+D:\Semester 4\DBS Lab\Final Project\Pharmacy\obj\Debug\Pharmacy.Sale.resources
+D:\Semester 4\DBS Lab\Final Project\Pharmacy\obj\Debug\Pharmacy.saleDrug.resources
+D:\Semester 4\DBS Lab\Final Project\Pharmacy\obj\Debug\Pharmacy.Vaccine.resources
+E:\final\Pharmacy\obj\Debug\Pharmacy.csproj.AssemblyReference.cache
+E:\final\Pharmacy\obj\Debug\Pharmacy.csproj.SuggestedBindingRedirects.cache
+E:\final\Pharmacy\obj\Debug\Pharmacy.addManufecturer.resources
+E:\final\Pharmacy\obj\Debug\Pharmacy.AdminControl_UC.resources
+E:\final\Pharmacy\obj\Debug\Pharmacy.AdminRequest.resources
+E:\final\Pharmacy\obj\Debug\Pharmacy.Cosmetic.resources
+E:\final\Pharmacy\obj\Debug\Pharmacy.Drug.resources
+E:\final\Pharmacy\obj\Debug\Pharmacy.EditManufecturer.resources
+E:\final\Pharmacy\obj\Debug\Pharmacy.EmployeeControls_UC.resources
+E:\final\Pharmacy\obj\Debug\Pharmacy.EmplyeeForm.resources
+E:\final\Pharmacy\obj\Debug\Pharmacy.Form1.resources
+E:\final\Pharmacy\obj\Debug\Pharmacy.LoggingIn.resources
+E:\final\Pharmacy\obj\Debug\Pharmacy.Manufecturer.resources
+E:\final\Pharmacy\obj\Debug\Pharmacy.MedicalDevice.resources
+E:\final\Pharmacy\obj\Debug\Pharmacy.Product.resources
+E:\final\Pharmacy\obj\Debug\Pharmacy.ProductSelection.resources
+E:\final\Pharmacy\obj\Debug\Pharmacy.Profile.resources
+E:\final\Pharmacy\obj\Debug\Pharmacy.Properties.Resources.resources
+E:\final\Pharmacy\obj\Debug\Pharmacy.Sale.resources
+E:\final\Pharmacy\obj\Debug\Pharmacy.saleDrug.resources
+E:\final\Pharmacy\obj\Debug\Pharmacy.SignIn.resources
+E:\final\Pharmacy\obj\Debug\Pharmacy.SignUp_UC.resources
+E:\final\Pharmacy\obj\Debug\Pharmacy.Vaccine.resources
+E:\final\Pharmacy\obj\Debug\Pharmacy.csproj.GenerateResource.cache
+E:\final\Pharmacy\obj\Debug\Pharmacy.csproj.CoreCompileInputs.cache
+E:\final\Pharmacy\obj\Debug\Pharmacy.exe
+E:\final\Pharmacy\obj\Debug\Pharmacy.pdb
+E:\final\Pharmacy\bin\Debug\Pharmacy.exe.config
+E:\final\Pharmacy\bin\Debug\Pharmacy.exe
+E:\final\Pharmacy\bin\Debug\Pharmacy.pdb
+E:\final\Pharmacy\bin\Debug\Guna.UI2.dll
+E:\final\Pharmacy\obj\Debug\Pharmacy.csproj.CopyComplete
+E:\final\Pharmacy\bin\Debug\BouncyCastle.Crypto.dll
+E:\final\Pharmacy\bin\Debug\itextsharp.dll
+E:\final\Pharmacy\bin\Debug\itextsharp.pdfa.dll
+E:\final\Pharmacy\bin\Debug\itextsharp.xml
+E:\final\db2021finalprojectg-30\Pharmacy\bin\Debug\Pharmacy.exe.config
+E:\final\db2021finalprojectg-30\Pharmacy\bin\Debug\Pharmacy.exe
+E:\final\db2021finalprojectg-30\Pharmacy\bin\Debug\Pharmacy.pdb
+E:\final\db2021finalprojectg-30\Pharmacy\bin\Debug\BouncyCastle.Crypto.dll
+E:\final\db2021finalprojectg-30\Pharmacy\bin\Debug\Guna.UI2.dll
+E:\final\db2021finalprojectg-30\Pharmacy\bin\Debug\itextsharp.dll
+E:\final\db2021finalprojectg-30\Pharmacy\bin\Debug\itextsharp.pdfa.dll
+E:\final\db2021finalprojectg-30\Pharmacy\bin\Debug\itextsharp.xml
+E:\final\db2021finalprojectg-30\Pharmacy\obj\Debug\Pharmacy.csproj.AssemblyReference.cache
+E:\final\db2021finalprojectg-30\Pharmacy\obj\Debug\Pharmacy.csproj.SuggestedBindingRedirects.cache
+E:\final\db2021finalprojectg-30\Pharmacy\obj\Debug\Pharmacy.addManufecturer.resources
+E:\final\db2021finalprojectg-30\Pharmacy\obj\Debug\Pharmacy.AdminControl_UC.resources
+E:\final\db2021finalprojectg-30\Pharmacy\obj\Debug\Pharmacy.AdminRequest.resources
+E:\final\db2021finalprojectg-30\Pharmacy\obj\Debug\Pharmacy.Cosmetic.resources
+E:\final\db2021finalprojectg-30\Pharmacy\obj\Debug\Pharmacy.Drug.resources
+E:\final\db2021finalprojectg-30\Pharmacy\obj\Debug\Pharmacy.EditManufecturer.resources
+E:\final\db2021finalprojectg-30\Pharmacy\obj\Debug\Pharmacy.EmployeeControls_UC.resources
+E:\final\db2021finalprojectg-30\Pharmacy\obj\Debug\Pharmacy.EmplyeeForm.resources
+E:\final\db2021finalprojectg-30\Pharmacy\obj\Debug\Pharmacy.Form1.resources
+E:\final\db2021finalprojectg-30\Pharmacy\obj\Debug\Pharmacy.LoggingIn.resources
+E:\final\db2021finalprojectg-30\Pharmacy\obj\Debug\Pharmacy.Manufecturer.resources
+E:\final\db2021finalprojectg-30\Pharmacy\obj\Debug\Pharmacy.MedicalDevice.resources
+E:\final\db2021finalprojectg-30\Pharmacy\obj\Debug\Pharmacy.Product.resources
+E:\final\db2021finalprojectg-30\Pharmacy\obj\Debug\Pharmacy.ProductSelection.resources
+E:\final\db2021finalprojectg-30\Pharmacy\obj\Debug\Pharmacy.Profile.resources
+E:\final\db2021finalprojectg-30\Pharmacy\obj\Debug\Pharmacy.Properties.Resources.resources
+E:\final\db2021finalprojectg-30\Pharmacy\obj\Debug\Pharmacy.Sale.resources
+E:\final\db2021finalprojectg-30\Pharmacy\obj\Debug\Pharmacy.saleDrug.resources
+E:\final\db2021finalprojectg-30\Pharmacy\obj\Debug\Pharmacy.SignIn.resources
+E:\final\db2021finalprojectg-30\Pharmacy\obj\Debug\Pharmacy.SignUp_UC.resources
+E:\final\db2021finalprojectg-30\Pharmacy\obj\Debug\Pharmacy.Vaccine.resources
+E:\final\db2021finalprojectg-30\Pharmacy\obj\Debug\Pharmacy.csproj.GenerateResource.cache
+E:\final\db2021finalprojectg-30\Pharmacy\obj\Debug\Pharmacy.csproj.CoreCompileInputs.cache
+E:\final\db2021finalprojectg-30\Pharmacy\obj\Debug\Pharmacy.csproj.CopyComplete
+E:\final\db2021finalprojectg-30\Pharmacy\obj\Debug\Pharmacy.exe
+E:\final\db2021finalprojectg-30\Pharmacy\obj\Debug\Pharmacy.pdb
+D:\Semester 4\DBS Lab\Final Project\extras\Pharmacy\bin\Debug\Pharmacy.exe.config
+D:\Semester 4\DBS Lab\Final Project\extras\Pharmacy\bin\Debug\Pharmacy.exe
+D:\Semester 4\DBS Lab\Final Project\extras\Pharmacy\bin\Debug\Pharmacy.pdb
+D:\Semester 4\DBS Lab\Final Project\extras\Pharmacy\bin\Debug\BouncyCastle.Crypto.dll
+D:\Semester 4\DBS Lab\Final Project\extras\Pharmacy\bin\Debug\Guna.UI2.dll
+D:\Semester 4\DBS Lab\Final Project\extras\Pharmacy\bin\Debug\itextsharp.dll
+D:\Semester 4\DBS Lab\Final Project\extras\Pharmacy\bin\Debug\itextsharp.pdfa.dll
+D:\Semester 4\DBS Lab\Final Project\extras\Pharmacy\bin\Debug\itextsharp.xml
+D:\Semester 4\DBS Lab\Final Project\extras\Pharmacy\obj\Debug\Pharmacy.csproj.AssemblyReference.cache
+D:\Semester 4\DBS Lab\Final Project\extras\Pharmacy\obj\Debug\Pharmacy.addManufecturer.resources
+D:\Semester 4\DBS Lab\Final Project\extras\Pharmacy\obj\Debug\Pharmacy.AdminControl_UC.resources
+D:\Semester 4\DBS Lab\Final Project\extras\Pharmacy\obj\Debug\Pharmacy.AdminRequest.resources
+D:\Semester 4\DBS Lab\Final Project\extras\Pharmacy\obj\Debug\Pharmacy.Cosmetic.resources
+D:\Semester 4\DBS Lab\Final Project\extras\Pharmacy\obj\Debug\Pharmacy.Drug.resources
+D:\Semester 4\DBS Lab\Final Project\extras\Pharmacy\obj\Debug\Pharmacy.EditManufecturer.resources
+D:\Semester 4\DBS Lab\Final Project\extras\Pharmacy\obj\Debug\Pharmacy.EmployeeControls_UC.resources
+D:\Semester 4\DBS Lab\Final Project\extras\Pharmacy\obj\Debug\Pharmacy.EmplyeeForm.resources
+D:\Semester 4\DBS Lab\Final Project\extras\Pharmacy\obj\Debug\Pharmacy.Form1.resources
+D:\Semester 4\DBS Lab\Final Project\extras\Pharmacy\obj\Debug\Pharmacy.LoggingIn.resources
+D:\Semester 4\DBS Lab\Final Project\extras\Pharmacy\obj\Debug\Pharmacy.Manufecturer.resources
+D:\Semester 4\DBS Lab\Final Project\extras\Pharmacy\obj\Debug\Pharmacy.MedicalDevice.resources
+D:\Semester 4\DBS Lab\Final Project\extras\Pharmacy\obj\Debug\Pharmacy.Product.resources
+D:\Semester 4\DBS Lab\Final Project\extras\Pharmacy\obj\Debug\Pharmacy.ProductSelection.resources
+D:\Semester 4\DBS Lab\Final Project\extras\Pharmacy\obj\Debug\Pharmacy.Profile.resources
+D:\Semester 4\DBS Lab\Final Project\extras\Pharmacy\obj\Debug\Pharmacy.Properties.Resources.resources
+D:\Semester 4\DBS Lab\Final Project\extras\Pharmacy\obj\Debug\Pharmacy.Sale.resources
+D:\Semester 4\DBS Lab\Final Project\extras\Pharmacy\obj\Debug\Pharmacy.saleDrug.resources
+D:\Semester 4\DBS Lab\Final Project\extras\Pharmacy\obj\Debug\Pharmacy.SignIn.resources
+D:\Semester 4\DBS Lab\Final Project\extras\Pharmacy\obj\Debug\Pharmacy.SignUp_UC.resources
+D:\Semester 4\DBS Lab\Final Project\extras\Pharmacy\obj\Debug\Pharmacy.Vaccine.resources
+D:\Semester 4\DBS Lab\Final Project\extras\Pharmacy\obj\Debug\Pharmacy.csproj.GenerateResource.cache
+D:\Semester 4\DBS Lab\Final Project\extras\Pharmacy\obj\Debug\Pharmacy.csproj.CoreCompileInputs.cache
+D:\Semester 4\DBS Lab\Final Project\extras\Pharmacy\obj\Debug\Pharmacy.csproj.CopyComplete
+D:\Semester 4\DBS Lab\Final Project\extras\Pharmacy\obj\Debug\Pharmacy.exe
+D:\Semester 4\DBS Lab\Final Project\extras\Pharmacy\obj\Debug\Pharmacy.pdb
+D:\Semester 4\DBS Lab\Final Project\extras\Pharmacy\obj\Debug\Pharmacy.Reports.resources
+D:\Semester 4\DBS Lab\Final Project\extras\Pharmacy\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Semester 4\DBS Lab\Final Project\extras\Pharmacy\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Semester 4\DBS Lab\Final Project\extras\Pharmacy\bin\Debug\CrystalDecisions.Shared.dll
+D:\Semester 4\DBS Lab\Final Project\extras\Pharmacy\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Semester 4\DBS Lab\Final Project\extras\Pharmacy\bin\Debug\Dapper.dll
+D:\Semester 4\DBS Lab\Final Project\extras\Pharmacy\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Semester 4\DBS Lab\Final Project\extras\Pharmacy\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Semester 4\DBS Lab\Final Project\extras\Pharmacy\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Semester 4\DBS Lab\Final Project\extras\Pharmacy\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Semester 4\DBS Lab\Final Project\extras\Pharmacy\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Semester 4\DBS Lab\Final Project\extras\Pharmacy\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Semester 4\DBS Lab\Final Project\extras\Pharmacy\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Semester 4\DBS Lab\Final Project\extras\Pharmacy\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Semester 4\DBS Lab\Final Project\extras\Pharmacy\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Semester 4\DBS Lab\Final Project\extras\Pharmacy\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Semester 4\DBS Lab\Final Project\extras\Pharmacy\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Semester 4\DBS Lab\Final Project\extras\Pharmacy\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Semester 4\DBS Lab\Final Project\extras\Pharmacy\bin\Debug\stdole.dll
+D:\Semester 4\DBS Lab\Final Project\extras\Pharmacy\bin\Debug\Dapper.xml
+E:\S_4\OS\Pharmacy\bin\Debug\Pharmacy.exe.config
+E:\S_4\OS\Pharmacy\bin\Debug\Pharmacy.exe
+E:\S_4\OS\Pharmacy\bin\Debug\Pharmacy.pdb
+E:\S_4\OS\Pharmacy\bin\Debug\BouncyCastle.Crypto.dll
+E:\S_4\OS\Pharmacy\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\S_4\OS\Pharmacy\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\S_4\OS\Pharmacy\bin\Debug\CrystalDecisions.Shared.dll
+E:\S_4\OS\Pharmacy\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\S_4\OS\Pharmacy\bin\Debug\Dapper.dll
+E:\S_4\OS\Pharmacy\bin\Debug\Guna.UI2.dll
+E:\S_4\OS\Pharmacy\bin\Debug\itextsharp.dll
+E:\S_4\OS\Pharmacy\bin\Debug\itextsharp.pdfa.dll
+E:\S_4\OS\Pharmacy\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\S_4\OS\Pharmacy\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\S_4\OS\Pharmacy\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\S_4\OS\Pharmacy\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\S_4\OS\Pharmacy\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\S_4\OS\Pharmacy\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\S_4\OS\Pharmacy\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\S_4\OS\Pharmacy\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\S_4\OS\Pharmacy\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\S_4\OS\Pharmacy\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\S_4\OS\Pharmacy\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\S_4\OS\Pharmacy\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\S_4\OS\Pharmacy\bin\Debug\stdole.dll
+E:\S_4\OS\Pharmacy\bin\Debug\Dapper.xml
+E:\S_4\OS\Pharmacy\bin\Debug\itextsharp.xml
+E:\S_4\OS\Pharmacy\obj\Debug\Pharmacy.csproj.AssemblyReference.cache
+E:\S_4\OS\Pharmacy\obj\Debug\Pharmacy.csproj.SuggestedBindingRedirects.cache
+E:\S_4\OS\Pharmacy\obj\Debug\Pharmacy.addManufecturer.resources
+E:\S_4\OS\Pharmacy\obj\Debug\Pharmacy.AdminControl_UC.resources
+E:\S_4\OS\Pharmacy\obj\Debug\Pharmacy.AdminRequest.resources
+E:\S_4\OS\Pharmacy\obj\Debug\Pharmacy.Cosmetic.resources
+E:\S_4\OS\Pharmacy\obj\Debug\Pharmacy.Drug.resources
+E:\S_4\OS\Pharmacy\obj\Debug\Pharmacy.EditManufecturer.resources
+E:\S_4\OS\Pharmacy\obj\Debug\Pharmacy.EmployeeControls_UC.resources
+E:\S_4\OS\Pharmacy\obj\Debug\Pharmacy.EmplyeeForm.resources
+E:\S_4\OS\Pharmacy\obj\Debug\Pharmacy.Form1.resources
+E:\S_4\OS\Pharmacy\obj\Debug\Pharmacy.LoggingIn.resources
+E:\S_4\OS\Pharmacy\obj\Debug\Pharmacy.Manufecturer.resources
+E:\S_4\OS\Pharmacy\obj\Debug\Pharmacy.MedicalDevice.resources
+E:\S_4\OS\Pharmacy\obj\Debug\Pharmacy.Product.resources
+E:\S_4\OS\Pharmacy\obj\Debug\Pharmacy.ProductSelection.resources
+E:\S_4\OS\Pharmacy\obj\Debug\Pharmacy.Profile.resources
+E:\S_4\OS\Pharmacy\obj\Debug\Pharmacy.Properties.Resources.resources
+E:\S_4\OS\Pharmacy\obj\Debug\Pharmacy.Reports.resources
+E:\S_4\OS\Pharmacy\obj\Debug\Pharmacy.Sale.resources
+E:\S_4\OS\Pharmacy\obj\Debug\Pharmacy.saleDrug.resources
+E:\S_4\OS\Pharmacy\obj\Debug\Pharmacy.SignIn.resources
+E:\S_4\OS\Pharmacy\obj\Debug\Pharmacy.SignUp_UC.resources
+E:\S_4\OS\Pharmacy\obj\Debug\Pharmacy.Vaccine.resources
+E:\S_4\OS\Pharmacy\obj\Debug\Pharmacy.csproj.GenerateResource.cache
+E:\S_4\OS\Pharmacy\obj\Debug\Pharmacy.csproj.CoreCompileInputs.cache
+E:\S_4\OS\Pharmacy\obj\Debug\Pharmacy.csproj.CopyComplete
+E:\S_4\OS\Pharmacy\obj\Debug\Pharmacy.exe
+E:\S_4\OS\Pharmacy\obj\Debug\Pharmacy.pdb
+E:\S_4\OS\Pharmacy\obj\Debug\Pharmacy.AdminRequestReport.resources
+E:\S_4\OS\Pharmacy\obj\Debug\Pharmacy.AdminReportForm.resources
+E:\S_4\OS\Pharmacy\obj\Debug\Pharmacy.SaleReport.resources
+P:\Programming\Data Base\New folder (2)\New folder\S_4_DBS-main\Pharmacy Management System\Pharmacy\bin\Debug\Pharmacy.exe.config
+P:\Programming\Data Base\New folder (2)\New folder\S_4_DBS-main\Pharmacy Management System\Pharmacy\bin\Debug\Pharmacy.exe
+P:\Programming\Data Base\New folder (2)\New folder\S_4_DBS-main\Pharmacy Management System\Pharmacy\bin\Debug\Pharmacy.pdb
+P:\Programming\Data Base\New folder (2)\New folder\S_4_DBS-main\Pharmacy Management System\Pharmacy\bin\Debug\BouncyCastle.Crypto.dll
+P:\Programming\Data Base\New folder (2)\New folder\S_4_DBS-main\Pharmacy Management System\Pharmacy\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+P:\Programming\Data Base\New folder (2)\New folder\S_4_DBS-main\Pharmacy Management System\Pharmacy\bin\Debug\CrystalDecisions.ReportSource.dll
+P:\Programming\Data Base\New folder (2)\New folder\S_4_DBS-main\Pharmacy Management System\Pharmacy\bin\Debug\CrystalDecisions.Shared.dll
+P:\Programming\Data Base\New folder (2)\New folder\S_4_DBS-main\Pharmacy Management System\Pharmacy\bin\Debug\CrystalDecisions.Windows.Forms.dll
+P:\Programming\Data Base\New folder (2)\New folder\S_4_DBS-main\Pharmacy Management System\Pharmacy\bin\Debug\Dapper.dll
+P:\Programming\Data Base\New folder (2)\New folder\S_4_DBS-main\Pharmacy Management System\Pharmacy\bin\Debug\Guna.UI2.dll
+P:\Programming\Data Base\New folder (2)\New folder\S_4_DBS-main\Pharmacy Management System\Pharmacy\bin\Debug\itextsharp.dll
+P:\Programming\Data Base\New folder (2)\New folder\S_4_DBS-main\Pharmacy Management System\Pharmacy\bin\Debug\itextsharp.pdfa.dll
+P:\Programming\Data Base\New folder (2)\New folder\S_4_DBS-main\Pharmacy Management System\Pharmacy\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+P:\Programming\Data Base\New folder (2)\New folder\S_4_DBS-main\Pharmacy Management System\Pharmacy\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+P:\Programming\Data Base\New folder (2)\New folder\S_4_DBS-main\Pharmacy Management System\Pharmacy\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+P:\Programming\Data Base\New folder (2)\New folder\S_4_DBS-main\Pharmacy Management System\Pharmacy\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+P:\Programming\Data Base\New folder (2)\New folder\S_4_DBS-main\Pharmacy Management System\Pharmacy\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+P:\Programming\Data Base\New folder (2)\New folder\S_4_DBS-main\Pharmacy Management System\Pharmacy\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+P:\Programming\Data Base\New folder (2)\New folder\S_4_DBS-main\Pharmacy Management System\Pharmacy\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+P:\Programming\Data Base\New folder (2)\New folder\S_4_DBS-main\Pharmacy Management System\Pharmacy\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+P:\Programming\Data Base\New folder (2)\New folder\S_4_DBS-main\Pharmacy Management System\Pharmacy\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+P:\Programming\Data Base\New folder (2)\New folder\S_4_DBS-main\Pharmacy Management System\Pharmacy\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+P:\Programming\Data Base\New folder (2)\New folder\S_4_DBS-main\Pharmacy Management System\Pharmacy\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+P:\Programming\Data Base\New folder (2)\New folder\S_4_DBS-main\Pharmacy Management System\Pharmacy\bin\Debug\AxShockwaveFlashObjects.dll
+P:\Programming\Data Base\New folder (2)\New folder\S_4_DBS-main\Pharmacy Management System\Pharmacy\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+P:\Programming\Data Base\New folder (2)\New folder\S_4_DBS-main\Pharmacy Management System\Pharmacy\bin\Debug\ShockwaveFlashObjects.dll
+P:\Programming\Data Base\New folder (2)\New folder\S_4_DBS-main\Pharmacy Management System\Pharmacy\bin\Debug\stdole.dll
+P:\Programming\Data Base\New folder (2)\New folder\S_4_DBS-main\Pharmacy Management System\Pharmacy\bin\Debug\Dapper.xml
+P:\Programming\Data Base\New folder (2)\New folder\S_4_DBS-main\Pharmacy Management System\Pharmacy\bin\Debug\itextsharp.xml
+P:\Programming\Data Base\New folder (2)\New folder\S_4_DBS-main\Pharmacy Management System\Pharmacy\obj\Debug\Pharmacy.csproj.AssemblyReference.cache
+P:\Programming\Data Base\New folder (2)\New folder\S_4_DBS-main\Pharmacy Management System\Pharmacy\obj\Debug\Pharmacy.addManufecturer.resources
+P:\Programming\Data Base\New folder (2)\New folder\S_4_DBS-main\Pharmacy Management System\Pharmacy\obj\Debug\Pharmacy.AdminControl_UC.resources
+P:\Programming\Data Base\New folder (2)\New folder\S_4_DBS-main\Pharmacy Management System\Pharmacy\obj\Debug\Pharmacy.AdminReportForm.resources
+P:\Programming\Data Base\New folder (2)\New folder\S_4_DBS-main\Pharmacy Management System\Pharmacy\obj\Debug\Pharmacy.AdminRequest.resources
+P:\Programming\Data Base\New folder (2)\New folder\S_4_DBS-main\Pharmacy Management System\Pharmacy\obj\Debug\Pharmacy.AdminRequestReport.resources
+P:\Programming\Data Base\New folder (2)\New folder\S_4_DBS-main\Pharmacy Management System\Pharmacy\obj\Debug\Pharmacy.Cosmetic.resources
+P:\Programming\Data Base\New folder (2)\New folder\S_4_DBS-main\Pharmacy Management System\Pharmacy\obj\Debug\Pharmacy.Drug.resources
+P:\Programming\Data Base\New folder (2)\New folder\S_4_DBS-main\Pharmacy Management System\Pharmacy\obj\Debug\Pharmacy.EditManufecturer.resources
+P:\Programming\Data Base\New folder (2)\New folder\S_4_DBS-main\Pharmacy Management System\Pharmacy\obj\Debug\Pharmacy.EmployeeControls_UC.resources
+P:\Programming\Data Base\New folder (2)\New folder\S_4_DBS-main\Pharmacy Management System\Pharmacy\obj\Debug\Pharmacy.EmplyeeForm.resources
+P:\Programming\Data Base\New folder (2)\New folder\S_4_DBS-main\Pharmacy Management System\Pharmacy\obj\Debug\Pharmacy.Form1.resources
+P:\Programming\Data Base\New folder (2)\New folder\S_4_DBS-main\Pharmacy Management System\Pharmacy\obj\Debug\Pharmacy.LoggingIn.resources
+P:\Programming\Data Base\New folder (2)\New folder\S_4_DBS-main\Pharmacy Management System\Pharmacy\obj\Debug\Pharmacy.Manufecturer.resources
+P:\Programming\Data Base\New folder (2)\New folder\S_4_DBS-main\Pharmacy Management System\Pharmacy\obj\Debug\Pharmacy.MedicalDevice.resources
+P:\Programming\Data Base\New folder (2)\New folder\S_4_DBS-main\Pharmacy Management System\Pharmacy\obj\Debug\Pharmacy.Product.resources
+P:\Programming\Data Base\New folder (2)\New folder\S_4_DBS-main\Pharmacy Management System\Pharmacy\obj\Debug\Pharmacy.ProductSelection.resources
+P:\Programming\Data Base\New folder (2)\New folder\S_4_DBS-main\Pharmacy Management System\Pharmacy\obj\Debug\Pharmacy.Profile.resources
+P:\Programming\Data Base\New folder (2)\New folder\S_4_DBS-main\Pharmacy Management System\Pharmacy\obj\Debug\Pharmacy.Properties.Resources.resources
+P:\Programming\Data Base\New folder (2)\New folder\S_4_DBS-main\Pharmacy Management System\Pharmacy\obj\Debug\Pharmacy.Reports.resources
+P:\Programming\Data Base\New folder (2)\New folder\S_4_DBS-main\Pharmacy Management System\Pharmacy\obj\Debug\Pharmacy.Sale.resources
+P:\Programming\Data Base\New folder (2)\New folder\S_4_DBS-main\Pharmacy Management System\Pharmacy\obj\Debug\Pharmacy.saleDrug.resources
+P:\Programming\Data Base\New folder (2)\New folder\S_4_DBS-main\Pharmacy Management System\Pharmacy\obj\Debug\Pharmacy.SaleReport.resources
+P:\Programming\Data Base\New folder (2)\New folder\S_4_DBS-main\Pharmacy Management System\Pharmacy\obj\Debug\Pharmacy.SignIn.resources
+P:\Programming\Data Base\New folder (2)\New folder\S_4_DBS-main\Pharmacy Management System\Pharmacy\obj\Debug\Pharmacy.SignUp_UC.resources
+P:\Programming\Data Base\New folder (2)\New folder\S_4_DBS-main\Pharmacy Management System\Pharmacy\obj\Debug\Pharmacy.Vaccine.resources
+P:\Programming\Data Base\New folder (2)\New folder\S_4_DBS-main\Pharmacy Management System\Pharmacy\obj\Debug\Pharmacy.csproj.GenerateResource.cache
+P:\Programming\Data Base\New folder (2)\New folder\S_4_DBS-main\Pharmacy Management System\Pharmacy\obj\Debug\Pharmacy.csproj.CoreCompileInputs.cache
+P:\Programming\Data Base\New folder (2)\New folder\S_4_DBS-main\Pharmacy Management System\Pharmacy\obj\Debug\Pharmacy.csproj.Up2Date
+P:\Programming\Data Base\New folder (2)\New folder\S_4_DBS-main\Pharmacy Management System\Pharmacy\obj\Debug\Pharmacy.exe
+P:\Programming\Data Base\New folder (2)\New folder\S_4_DBS-main\Pharmacy Management System\Pharmacy\obj\Debug\Pharmacy.pdb

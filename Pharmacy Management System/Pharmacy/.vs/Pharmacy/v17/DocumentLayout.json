@@ -1,0 +1,587 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "P:\\Programming\\Data Base\\New folder (2)\\New folder\\S_4_DBS-main\\Pharmacy Management System\\Pharmacy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54613839-CC63-46DF-AC8F-6760D965B26C}|Pharmacy.csproj|p:\\programming\\data base\\new folder (2)\\new folder\\s_4_dbs-main\\pharmacy management system\\pharmacy\\productselection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{54613839-CC63-46DF-AC8F-6760D965B26C}|Pharmacy.csproj|solutionrelative:productselection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54613839-CC63-46DF-AC8F-6760D965B26C}|Pharmacy.csproj|p:\\programming\\data base\\new folder (2)\\new folder\\s_4_dbs-main\\pharmacy management system\\pharmacy\\medicaldevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{54613839-CC63-46DF-AC8F-6760D965B26C}|Pharmacy.csproj|solutionrelative:medicaldevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54613839-CC63-46DF-AC8F-6760D965B26C}|Pharmacy.csproj|p:\\programming\\data base\\new folder (2)\\new folder\\s_4_dbs-main\\pharmacy management system\\pharmacy\\loggingin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{54613839-CC63-46DF-AC8F-6760D965B26C}|Pharmacy.csproj|solutionrelative:loggingin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54613839-CC63-46DF-AC8F-6760D965B26C}|Pharmacy.csproj|p:\\programming\\data base\\new folder (2)\\new folder\\s_4_dbs-main\\pharmacy management system\\pharmacy\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{54613839-CC63-46DF-AC8F-6760D965B26C}|Pharmacy.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54613839-CC63-46DF-AC8F-6760D965B26C}|Pharmacy.csproj|p:\\programming\\data base\\new folder (2)\\new folder\\s_4_dbs-main\\pharmacy management system\\pharmacy\\emplyeeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{54613839-CC63-46DF-AC8F-6760D965B26C}|Pharmacy.csproj|solutionrelative:emplyeeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54613839-CC63-46DF-AC8F-6760D965B26C}|Pharmacy.csproj|p:\\programming\\data base\\new folder (2)\\new folder\\s_4_dbs-main\\pharmacy management system\\pharmacy\\editmanufecturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{54613839-CC63-46DF-AC8F-6760D965B26C}|Pharmacy.csproj|solutionrelative:editmanufecturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54613839-CC63-46DF-AC8F-6760D965B26C}|Pharmacy.csproj|p:\\programming\\data base\\new folder (2)\\new folder\\s_4_dbs-main\\pharmacy management system\\pharmacy\\adminrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{54613839-CC63-46DF-AC8F-6760D965B26C}|Pharmacy.csproj|solutionrelative:adminrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54613839-CC63-46DF-AC8F-6760D965B26C}|Pharmacy.csproj|p:\\programming\\data base\\new folder (2)\\new folder\\s_4_dbs-main\\pharmacy management system\\pharmacy\\admincontrol_uc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{54613839-CC63-46DF-AC8F-6760D965B26C}|Pharmacy.csproj|solutionrelative:admincontrol_uc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54613839-CC63-46DF-AC8F-6760D965B26C}|Pharmacy.csproj|p:\\programming\\data base\\new folder (2)\\new folder\\s_4_dbs-main\\pharmacy management system\\pharmacy\\adminreportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{54613839-CC63-46DF-AC8F-6760D965B26C}|Pharmacy.csproj|solutionrelative:adminreportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54613839-CC63-46DF-AC8F-6760D965B26C}|Pharmacy.csproj|p:\\programming\\data base\\new folder (2)\\new folder\\s_4_dbs-main\\pharmacy management system\\pharmacy\\addmanufecturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{54613839-CC63-46DF-AC8F-6760D965B26C}|Pharmacy.csproj|solutionrelative:addmanufecturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54613839-CC63-46DF-AC8F-6760D965B26C}|Pharmacy.csproj|p:\\programming\\data base\\new folder (2)\\new folder\\s_4_dbs-main\\pharmacy management system\\pharmacy\\adminrequestreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{54613839-CC63-46DF-AC8F-6760D965B26C}|Pharmacy.csproj|solutionrelative:adminrequestreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54613839-CC63-46DF-AC8F-6760D965B26C}|Pharmacy.csproj|P:\\Programming\\Data Base\\New folder (2)\\New folder\\S_4_DBS-main\\Pharmacy Management System\\Pharmacy\\signup_uc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54613839-CC63-46DF-AC8F-6760D965B26C}|Pharmacy.csproj|solutionrelative:signup_uc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54613839-CC63-46DF-AC8F-6760D965B26C}|Pharmacy.csproj|p:\\programming\\data base\\new folder (2)\\new folder\\s_4_dbs-main\\pharmacy management system\\pharmacy\\billreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54613839-CC63-46DF-AC8F-6760D965B26C}|Pharmacy.csproj|solutionrelative:billreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54613839-CC63-46DF-AC8F-6760D965B26C}|Pharmacy.csproj|P:\\Programming\\Data Base\\New folder (2)\\New folder\\S_4_DBS-main\\Pharmacy Management System\\Pharmacy\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54613839-CC63-46DF-AC8F-6760D965B26C}|Pharmacy.csproj|solutionrelative:configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54613839-CC63-46DF-AC8F-6760D965B26C}|Pharmacy.csproj|p:\\programming\\data base\\new folder (2)\\new folder\\s_4_dbs-main\\pharmacy management system\\pharmacy\\cosmetic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{54613839-CC63-46DF-AC8F-6760D965B26C}|Pharmacy.csproj|solutionrelative:cosmetic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54613839-CC63-46DF-AC8F-6760D965B26C}|Pharmacy.csproj|p:\\programming\\data base\\new folder (2)\\new folder\\s_4_dbs-main\\pharmacy management system\\pharmacy\\drug.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{54613839-CC63-46DF-AC8F-6760D965B26C}|Pharmacy.csproj|solutionrelative:drug.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54613839-CC63-46DF-AC8F-6760D965B26C}|Pharmacy.csproj|p:\\programming\\data base\\new folder (2)\\new folder\\s_4_dbs-main\\pharmacy management system\\pharmacy\\employeecontrols_uc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{54613839-CC63-46DF-AC8F-6760D965B26C}|Pharmacy.csproj|solutionrelative:employeecontrols_uc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54613839-CC63-46DF-AC8F-6760D965B26C}|Pharmacy.csproj|p:\\programming\\data base\\new folder (2)\\new folder\\s_4_dbs-main\\pharmacy management system\\pharmacy\\manufecturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{54613839-CC63-46DF-AC8F-6760D965B26C}|Pharmacy.csproj|solutionrelative:manufecturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54613839-CC63-46DF-AC8F-6760D965B26C}|Pharmacy.csproj|p:\\programming\\data base\\new folder (2)\\new folder\\s_4_dbs-main\\pharmacy management system\\pharmacy\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{54613839-CC63-46DF-AC8F-6760D965B26C}|Pharmacy.csproj|solutionrelative:product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54613839-CC63-46DF-AC8F-6760D965B26C}|Pharmacy.csproj|p:\\programming\\data base\\new folder (2)\\new folder\\s_4_dbs-main\\pharmacy management system\\pharmacy\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{54613839-CC63-46DF-AC8F-6760D965B26C}|Pharmacy.csproj|solutionrelative:profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54613839-CC63-46DF-AC8F-6760D965B26C}|Pharmacy.csproj|p:\\programming\\data base\\new folder (2)\\new folder\\s_4_dbs-main\\pharmacy management system\\pharmacy\\reports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{54613839-CC63-46DF-AC8F-6760D965B26C}|Pharmacy.csproj|solutionrelative:reports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54613839-CC63-46DF-AC8F-6760D965B26C}|Pharmacy.csproj|p:\\programming\\data base\\new folder (2)\\new folder\\s_4_dbs-main\\pharmacy management system\\pharmacy\\vaccine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{54613839-CC63-46DF-AC8F-6760D965B26C}|Pharmacy.csproj|solutionrelative:vaccine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54613839-CC63-46DF-AC8F-6760D965B26C}|Pharmacy.csproj|p:\\programming\\data base\\new folder (2)\\new folder\\s_4_dbs-main\\pharmacy management system\\pharmacy\\saledrug.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{54613839-CC63-46DF-AC8F-6760D965B26C}|Pharmacy.csproj|solutionrelative:saledrug.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54613839-CC63-46DF-AC8F-6760D965B26C}|Pharmacy.csproj|p:\\programming\\data base\\new folder (2)\\new folder\\s_4_dbs-main\\pharmacy management system\\pharmacy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54613839-CC63-46DF-AC8F-6760D965B26C}|Pharmacy.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54613839-CC63-46DF-AC8F-6760D965B26C}|Pharmacy.csproj|p:\\programming\\data base\\new folder (2)\\new folder\\s_4_dbs-main\\pharmacy management system\\pharmacy\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{54613839-CC63-46DF-AC8F-6760D965B26C}|Pharmacy.csproj|solutionrelative:sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54613839-CC63-46DF-AC8F-6760D965B26C}|Pharmacy.csproj|p:\\programming\\data base\\new folder (2)\\new folder\\s_4_dbs-main\\pharmacy management system\\pharmacy\\salereport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{54613839-CC63-46DF-AC8F-6760D965B26C}|Pharmacy.csproj|solutionrelative:salereport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54613839-CC63-46DF-AC8F-6760D965B26C}|Pharmacy.csproj|P:\\Programming\\Data Base\\New folder (2)\\New folder\\S_4_DBS-main\\Pharmacy Management System\\Pharmacy\\signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{54613839-CC63-46DF-AC8F-6760D965B26C}|Pharmacy.csproj|solutionrelative:signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54613839-CC63-46DF-AC8F-6760D965B26C}|Pharmacy.csproj|P:\\Programming\\Data Base\\New folder (2)\\New folder\\S_4_DBS-main\\Pharmacy Management System\\Pharmacy\\signup_uc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{54613839-CC63-46DF-AC8F-6760D965B26C}|Pharmacy.csproj|solutionrelative:signup_uc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54613839-CC63-46DF-AC8F-6760D965B26C}|Pharmacy.csproj|p:\\programming\\data base\\new folder (2)\\new folder\\s_4_dbs-main\\pharmacy management system\\pharmacy\\classdiagram1.cd||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{54613839-CC63-46DF-AC8F-6760D965B26C}|Pharmacy.csproj|solutionrelative:classdiagram1.cd||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54613839-CC63-46DF-AC8F-6760D965B26C}|Pharmacy.csproj|p:\\programming\\data base\\new folder (2)\\new folder\\s_4_dbs-main\\pharmacy management system\\pharmacy\\adminrr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54613839-CC63-46DF-AC8F-6760D965B26C}|Pharmacy.csproj|solutionrelative:adminrr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54613839-CC63-46DF-AC8F-6760D965B26C}|Pharmacy.csproj|P:\\Programming\\Data Base\\New folder (2)\\New folder\\S_4_DBS-main\\Pharmacy Management System\\Pharmacy\\signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54613839-CC63-46DF-AC8F-6760D965B26C}|Pharmacy.csproj|solutionrelative:signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54613839-CC63-46DF-AC8F-6760D965B26C}|Pharmacy.csproj|P:\\Programming\\Data Base\\New folder (2)\\New folder\\S_4_DBS-main\\Pharmacy Management System\\Pharmacy\\classes\\dl\\signupdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54613839-CC63-46DF-AC8F-6760D965B26C}|Pharmacy.csproj|solutionrelative:classes\\dl\\signupdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54613839-CC63-46DF-AC8F-6760D965B26C}|Pharmacy.csproj|P:\\Programming\\Data Base\\New folder (2)\\New folder\\S_4_DBS-main\\Pharmacy Management System\\Pharmacy\\classes\\bl\\signupbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54613839-CC63-46DF-AC8F-6760D965B26C}|Pharmacy.csproj|solutionrelative:classes\\bl\\signupbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54613839-CC63-46DF-AC8F-6760D965B26C}|Pharmacy.csproj|P:\\Programming\\Data Base\\New folder (2)\\New folder\\S_4_DBS-main\\Pharmacy Management System\\Pharmacy\\classes\\bl\\adminrequestreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54613839-CC63-46DF-AC8F-6760D965B26C}|Pharmacy.csproj|solutionrelative:classes\\bl\\adminrequestreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54613839-CC63-46DF-AC8F-6760D965B26C}|Pharmacy.csproj|P:\\Programming\\Data Base\\New folder (2)\\New folder\\S_4_DBS-main\\Pharmacy Management System\\Pharmacy\\classes\\bl\\cosmeticbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54613839-CC63-46DF-AC8F-6760D965B26C}|Pharmacy.csproj|solutionrelative:classes\\bl\\cosmeticbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 134,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Drug.cs [Design]",
+              "DocumentMoniker": "P:\\Programming\\Data Base\\New folder (2)\\New folder\\S_4_DBS-main\\Pharmacy Management System\\Pharmacy\\Drug.cs",
+              "RelativeDocumentMoniker": "Drug.cs",
+              "ToolTip": "P:\\Programming\\Data Base\\New folder (2)\\New folder\\S_4_DBS-main\\Pharmacy Management System\\Pharmacy\\Drug.cs [Design]",
+              "RelativeToolTip": "Drug.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T14:39:08.602Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EditManufecturer.cs [Design]",
+              "DocumentMoniker": "P:\\Programming\\Data Base\\New folder (2)\\New folder\\S_4_DBS-main\\Pharmacy Management System\\Pharmacy\\EditManufecturer.cs",
+              "RelativeDocumentMoniker": "EditManufecturer.cs",
+              "ToolTip": "P:\\Programming\\Data Base\\New folder (2)\\New folder\\S_4_DBS-main\\Pharmacy Management System\\Pharmacy\\EditManufecturer.cs [Design]",
+              "RelativeToolTip": "EditManufecturer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T14:39:06.339Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EmployeeControls_UC.cs [Design]",
+              "DocumentMoniker": "P:\\Programming\\Data Base\\New folder (2)\\New folder\\S_4_DBS-main\\Pharmacy Management System\\Pharmacy\\EmployeeControls_UC.cs",
+              "RelativeDocumentMoniker": "EmployeeControls_UC.cs",
+              "ToolTip": "P:\\Programming\\Data Base\\New folder (2)\\New folder\\S_4_DBS-main\\Pharmacy Management System\\Pharmacy\\EmployeeControls_UC.cs [Design]",
+              "RelativeToolTip": "EmployeeControls_UC.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T14:39:02.514Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmplyeeForm.cs [Design]",
+              "DocumentMoniker": "P:\\Programming\\Data Base\\New folder (2)\\New folder\\S_4_DBS-main\\Pharmacy Management System\\Pharmacy\\EmplyeeForm.cs",
+              "RelativeDocumentMoniker": "EmplyeeForm.cs",
+              "ToolTip": "P:\\Programming\\Data Base\\New folder (2)\\New folder\\S_4_DBS-main\\Pharmacy Management System\\Pharmacy\\EmplyeeForm.cs [Design]",
+              "RelativeToolTip": "EmplyeeForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T14:38:55.349Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Product.cs [Design]",
+              "DocumentMoniker": "P:\\Programming\\Data Base\\New folder (2)\\New folder\\S_4_DBS-main\\Pharmacy Management System\\Pharmacy\\Product.cs",
+              "RelativeDocumentMoniker": "Product.cs",
+              "ToolTip": "P:\\Programming\\Data Base\\New folder (2)\\New folder\\S_4_DBS-main\\Pharmacy Management System\\Pharmacy\\Product.cs [Design]",
+              "RelativeToolTip": "Product.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T14:37:04.128Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductSelection.cs [Design]",
+              "DocumentMoniker": "P:\\Programming\\Data Base\\New folder (2)\\New folder\\S_4_DBS-main\\Pharmacy Management System\\Pharmacy\\ProductSelection.cs",
+              "RelativeDocumentMoniker": "ProductSelection.cs",
+              "ToolTip": "P:\\Programming\\Data Base\\New folder (2)\\New folder\\S_4_DBS-main\\Pharmacy Management System\\Pharmacy\\ProductSelection.cs [Design]",
+              "RelativeToolTip": "ProductSelection.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T14:36:08.246Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MedicalDevice.cs [Design]",
+              "DocumentMoniker": "P:\\Programming\\Data Base\\New folder (2)\\New folder\\S_4_DBS-main\\Pharmacy Management System\\Pharmacy\\MedicalDevice.cs",
+              "RelativeDocumentMoniker": "MedicalDevice.cs",
+              "ToolTip": "P:\\Programming\\Data Base\\New folder (2)\\New folder\\S_4_DBS-main\\Pharmacy Management System\\Pharmacy\\MedicalDevice.cs [Design]",
+              "RelativeToolTip": "MedicalDevice.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T14:36:06.036Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoggingIn.cs [Design]",
+              "DocumentMoniker": "P:\\Programming\\Data Base\\New folder (2)\\New folder\\S_4_DBS-main\\Pharmacy Management System\\Pharmacy\\LoggingIn.cs",
+              "RelativeDocumentMoniker": "LoggingIn.cs",
+              "ToolTip": "P:\\Programming\\Data Base\\New folder (2)\\New folder\\S_4_DBS-main\\Pharmacy Management System\\Pharmacy\\LoggingIn.cs [Design]",
+              "RelativeToolTip": "LoggingIn.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T14:36:01.073Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Manufecturer.cs [Design]",
+              "DocumentMoniker": "P:\\Programming\\Data Base\\New folder (2)\\New folder\\S_4_DBS-main\\Pharmacy Management System\\Pharmacy\\Manufecturer.cs",
+              "RelativeDocumentMoniker": "Manufecturer.cs",
+              "ToolTip": "P:\\Programming\\Data Base\\New folder (2)\\New folder\\S_4_DBS-main\\Pharmacy Management System\\Pharmacy\\Manufecturer.cs [Design]",
+              "RelativeToolTip": "Manufecturer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T14:35:52.486Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Profile.cs [Design]",
+              "DocumentMoniker": "P:\\Programming\\Data Base\\New folder (2)\\New folder\\S_4_DBS-main\\Pharmacy Management System\\Pharmacy\\Profile.cs",
+              "RelativeDocumentMoniker": "Profile.cs",
+              "ToolTip": "P:\\Programming\\Data Base\\New folder (2)\\New folder\\S_4_DBS-main\\Pharmacy Management System\\Pharmacy\\Profile.cs [Design]",
+              "RelativeToolTip": "Profile.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T14:34:40.562Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "P:\\Programming\\Data Base\\New folder (2)\\New folder\\S_4_DBS-main\\Pharmacy Management System\\Pharmacy\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "P:\\Programming\\Data Base\\New folder (2)\\New folder\\S_4_DBS-main\\Pharmacy Management System\\Pharmacy\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T14:34:39.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Reports.cs [Design]",
+              "DocumentMoniker": "P:\\Programming\\Data Base\\New folder (2)\\New folder\\S_4_DBS-main\\Pharmacy Management System\\Pharmacy\\Reports.cs",
+              "RelativeDocumentMoniker": "Reports.cs",
+              "ToolTip": "P:\\Programming\\Data Base\\New folder (2)\\New folder\\S_4_DBS-main\\Pharmacy Management System\\Pharmacy\\Reports.cs [Design]",
+              "RelativeToolTip": "Reports.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T14:34:37.755Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Sale.cs [Design]",
+              "DocumentMoniker": "P:\\Programming\\Data Base\\New folder (2)\\New folder\\S_4_DBS-main\\Pharmacy Management System\\Pharmacy\\Sale.cs",
+              "RelativeDocumentMoniker": "Sale.cs",
+              "ToolTip": "P:\\Programming\\Data Base\\New folder (2)\\New folder\\S_4_DBS-main\\Pharmacy Management System\\Pharmacy\\Sale.cs [Design]",
+              "RelativeToolTip": "Sale.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T14:34:35.833Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Cosmetic.cs [Design]",
+              "DocumentMoniker": "P:\\Programming\\Data Base\\New folder (2)\\New folder\\S_4_DBS-main\\Pharmacy Management System\\Pharmacy\\Cosmetic.cs",
+              "RelativeDocumentMoniker": "Cosmetic.cs",
+              "ToolTip": "P:\\Programming\\Data Base\\New folder (2)\\New folder\\S_4_DBS-main\\Pharmacy Management System\\Pharmacy\\Cosmetic.cs [Design]",
+              "RelativeToolTip": "Cosmetic.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T14:33:53.378Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "P:\\Programming\\Data Base\\New folder (2)\\New folder\\S_4_DBS-main\\Pharmacy Management System\\Pharmacy\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "ClassDiagram1.cd",
+              "ToolTip": "P:\\Programming\\Data Base\\New folder (2)\\New folder\\S_4_DBS-main\\Pharmacy Management System\\Pharmacy\\ClassDiagram1.cd",
+              "RelativeToolTip": "ClassDiagram1.cd",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2024-05-10T14:33:45.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BillReport.cs",
+              "DocumentMoniker": "P:\\Programming\\Data Base\\New folder (2)\\New folder\\S_4_DBS-main\\Pharmacy Management System\\Pharmacy\\BillReport.cs",
+              "RelativeDocumentMoniker": "BillReport.cs",
+              "ToolTip": "P:\\Programming\\Data Base\\New folder (2)\\New folder\\S_4_DBS-main\\Pharmacy Management System\\Pharmacy\\BillReport.cs",
+              "RelativeToolTip": "BillReport.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T14:33:43.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "adminRR.cs",
+              "DocumentMoniker": "P:\\Programming\\Data Base\\New folder (2)\\New folder\\S_4_DBS-main\\Pharmacy Management System\\Pharmacy\\adminRR.cs",
+              "RelativeDocumentMoniker": "adminRR.cs",
+              "ToolTip": "P:\\Programming\\Data Base\\New folder (2)\\New folder\\S_4_DBS-main\\Pharmacy Management System\\Pharmacy\\adminRR.cs",
+              "RelativeToolTip": "adminRR.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T14:33:39.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdminControl_UC.cs [Design]",
+              "DocumentMoniker": "P:\\Programming\\Data Base\\New folder (2)\\New folder\\S_4_DBS-main\\Pharmacy Management System\\Pharmacy\\AdminControl_UC.cs",
+              "RelativeDocumentMoniker": "AdminControl_UC.cs",
+              "ToolTip": "P:\\Programming\\Data Base\\New folder (2)\\New folder\\S_4_DBS-main\\Pharmacy Management System\\Pharmacy\\AdminControl_UC.cs [Design]",
+              "RelativeToolTip": "AdminControl_UC.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T14:33:26.967Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "saleDrug.cs [Design]",
+              "DocumentMoniker": "P:\\Programming\\Data Base\\New folder (2)\\New folder\\S_4_DBS-main\\Pharmacy Management System\\Pharmacy\\saleDrug.cs",
+              "RelativeDocumentMoniker": "saleDrug.cs",
+              "ToolTip": "P:\\Programming\\Data Base\\New folder (2)\\New folder\\S_4_DBS-main\\Pharmacy Management System\\Pharmacy\\saleDrug.cs [Design]",
+              "RelativeToolTip": "saleDrug.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T14:33:16.685Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "SaleReport.cs [Design]",
+              "DocumentMoniker": "P:\\Programming\\Data Base\\New folder (2)\\New folder\\S_4_DBS-main\\Pharmacy Management System\\Pharmacy\\SaleReport.cs",
+              "RelativeDocumentMoniker": "SaleReport.cs",
+              "ToolTip": "P:\\Programming\\Data Base\\New folder (2)\\New folder\\S_4_DBS-main\\Pharmacy Management System\\Pharmacy\\SaleReport.cs [Design]",
+              "RelativeToolTip": "SaleReport.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T14:32:46.414Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "addManufecturer.cs [Design]",
+              "DocumentMoniker": "P:\\Programming\\Data Base\\New folder (2)\\New folder\\S_4_DBS-main\\Pharmacy Management System\\Pharmacy\\addManufecturer.cs",
+              "RelativeDocumentMoniker": "addManufecturer.cs",
+              "ToolTip": "P:\\Programming\\Data Base\\New folder (2)\\New folder\\S_4_DBS-main\\Pharmacy Management System\\Pharmacy\\addManufecturer.cs [Design]",
+              "RelativeToolTip": "addManufecturer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T14:32:35.027Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AdminRequestReport.cs [Design]",
+              "DocumentMoniker": "P:\\Programming\\Data Base\\New folder (2)\\New folder\\S_4_DBS-main\\Pharmacy Management System\\Pharmacy\\AdminRequestReport.cs",
+              "RelativeDocumentMoniker": "AdminRequestReport.cs",
+              "ToolTip": "P:\\Programming\\Data Base\\New folder (2)\\New folder\\S_4_DBS-main\\Pharmacy Management System\\Pharmacy\\AdminRequestReport.cs [Design]",
+              "RelativeToolTip": "AdminRequestReport.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T14:32:29.06Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminRequest.cs [Design]",
+              "DocumentMoniker": "P:\\Programming\\Data Base\\New folder (2)\\New folder\\S_4_DBS-main\\Pharmacy Management System\\Pharmacy\\AdminRequest.cs",
+              "RelativeDocumentMoniker": "AdminRequest.cs",
+              "ToolTip": "P:\\Programming\\Data Base\\New folder (2)\\New folder\\S_4_DBS-main\\Pharmacy Management System\\Pharmacy\\AdminRequest.cs [Design]",
+              "RelativeToolTip": "AdminRequest.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T14:32:21.857Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AdminReportForm.cs [Design]",
+              "DocumentMoniker": "P:\\Programming\\Data Base\\New folder (2)\\New folder\\S_4_DBS-main\\Pharmacy Management System\\Pharmacy\\AdminReportForm.cs",
+              "RelativeDocumentMoniker": "AdminReportForm.cs",
+              "ToolTip": "P:\\Programming\\Data Base\\New folder (2)\\New folder\\S_4_DBS-main\\Pharmacy Management System\\Pharmacy\\AdminReportForm.cs [Design]",
+              "RelativeToolTip": "AdminReportForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T14:32:18.388Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "P:\\Programming\\Data Base\\New folder (2)\\New folder\\S_4_DBS-main\\Pharmacy Management System\\Pharmacy\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "P:\\Programming\\Data Base\\New folder (2)\\New folder\\S_4_DBS-main\\Pharmacy Management System\\Pharmacy\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T14:25:27.213Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Vaccine.cs [Design]",
+              "DocumentMoniker": "P:\\Programming\\Data Base\\New folder (2)\\New folder\\S_4_DBS-main\\Pharmacy Management System\\Pharmacy\\Vaccine.cs",
+              "RelativeDocumentMoniker": "Vaccine.cs",
+              "ToolTip": "P:\\Programming\\Data Base\\New folder (2)\\New folder\\S_4_DBS-main\\Pharmacy Management System\\Pharmacy\\Vaccine.cs [Design]",
+              "RelativeToolTip": "Vaccine.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T12:53:04.01Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "SignIn.cs",
+              "DocumentMoniker": "P:\\Programming\\Data Base\\New folder (2)\\New folder\\S_4_DBS-main\\Pharmacy Management System\\Pharmacy\\SignIn.cs",
+              "RelativeDocumentMoniker": "SignIn.cs",
+              "ToolTip": "P:\\Programming\\Data Base\\New folder (2)\\New folder\\S_4_DBS-main\\Pharmacy Management System\\Pharmacy\\SignIn.cs",
+              "RelativeToolTip": "SignIn.cs",
+              "ViewState": "AQIAAG8AAACAzMzMzAwswH4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T12:37:21.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AdminRequestReport.cs",
+              "DocumentMoniker": "P:\\Programming\\Data Base\\New folder (2)\\New folder\\S_4_DBS-main\\Pharmacy Management System\\Pharmacy\\Classes\\BL\\AdminRequestReport.cs",
+              "RelativeDocumentMoniker": "Classes\\BL\\AdminRequestReport.cs",
+              "ToolTip": "P:\\Programming\\Data Base\\New folder (2)\\New folder\\S_4_DBS-main\\Pharmacy Management System\\Pharmacy\\Classes\\BL\\AdminRequestReport.cs",
+              "RelativeToolTip": "Classes\\BL\\AdminRequestReport.cs",
+              "ViewState": "AQIAAAgAAABAMDMzMzMrwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T12:32:33.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CosmeticBL.cs",
+              "DocumentMoniker": "P:\\Programming\\Data Base\\New folder (2)\\New folder\\S_4_DBS-main\\Pharmacy Management System\\Pharmacy\\Classes\\BL\\CosmeticBL.cs",
+              "RelativeDocumentMoniker": "Classes\\BL\\CosmeticBL.cs",
+              "ToolTip": "P:\\Programming\\Data Base\\New folder (2)\\New folder\\S_4_DBS-main\\Pharmacy Management System\\Pharmacy\\Classes\\BL\\CosmeticBL.cs",
+              "RelativeToolTip": "Classes\\BL\\CosmeticBL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T12:32:33.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "SignUpBL.cs",
+              "DocumentMoniker": "P:\\Programming\\Data Base\\New folder (2)\\New folder\\S_4_DBS-main\\Pharmacy Management System\\Pharmacy\\Classes\\BL\\SignUpBL.cs",
+              "RelativeDocumentMoniker": "Classes\\BL\\SignUpBL.cs",
+              "ToolTip": "P:\\Programming\\Data Base\\New folder (2)\\New folder\\S_4_DBS-main\\Pharmacy Management System\\Pharmacy\\Classes\\BL\\SignUpBL.cs",
+              "RelativeToolTip": "Classes\\BL\\SignUpBL.cs",
+              "ViewState": "AQIAABoAAAAAMDMzMzMkwBMAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T12:32:14.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "SignUpDL.cs",
+              "DocumentMoniker": "P:\\Programming\\Data Base\\New folder (2)\\New folder\\S_4_DBS-main\\Pharmacy Management System\\Pharmacy\\Classes\\DL\\SignUpDL.cs",
+              "RelativeDocumentMoniker": "Classes\\DL\\SignUpDL.cs",
+              "ToolTip": "P:\\Programming\\Data Base\\New folder (2)\\New folder\\S_4_DBS-main\\Pharmacy Management System\\Pharmacy\\Classes\\DL\\SignUpDL.cs",
+              "RelativeToolTip": "Classes\\DL\\SignUpDL.cs",
+              "ViewState": "AQIAAB4AAAAAXmZmZmYRwCAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T12:25:40.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SignUp_UC.cs",
+              "DocumentMoniker": "P:\\Programming\\Data Base\\New folder (2)\\New folder\\S_4_DBS-main\\Pharmacy Management System\\Pharmacy\\SignUp_UC.cs",
+              "RelativeDocumentMoniker": "SignUp_UC.cs",
+              "ToolTip": "P:\\Programming\\Data Base\\New folder (2)\\New folder\\S_4_DBS-main\\Pharmacy Management System\\Pharmacy\\SignUp_UC.cs",
+              "RelativeToolTip": "SignUp_UC.cs",
+              "ViewState": "AQIAAP4AAAAAAAAAAAAawAcBAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T12:10:00.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "SignUp_UC.cs [Design]",
+              "DocumentMoniker": "P:\\Programming\\Data Base\\New folder (2)\\New folder\\S_4_DBS-main\\Pharmacy Management System\\Pharmacy\\SignUp_UC.cs",
+              "RelativeDocumentMoniker": "SignUp_UC.cs",
+              "ToolTip": "P:\\Programming\\Data Base\\New folder (2)\\New folder\\S_4_DBS-main\\Pharmacy Management System\\Pharmacy\\SignUp_UC.cs [Design]",
+              "RelativeToolTip": "SignUp_UC.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T12:24:01.487Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "SignIn.cs [Design]",
+              "DocumentMoniker": "P:\\Programming\\Data Base\\New folder (2)\\New folder\\S_4_DBS-main\\Pharmacy Management System\\Pharmacy\\SignIn.cs",
+              "RelativeDocumentMoniker": "SignIn.cs",
+              "ToolTip": "P:\\Programming\\Data Base\\New folder (2)\\New folder\\S_4_DBS-main\\Pharmacy Management System\\Pharmacy\\SignIn.cs [Design]",
+              "RelativeToolTip": "SignIn.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T12:23:56.605Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "P:\\Programming\\Data Base\\New folder (2)\\New folder\\S_4_DBS-main\\Pharmacy Management System\\Pharmacy\\Configuration.cs",
+              "RelativeDocumentMoniker": "Configuration.cs",
+              "ToolTip": "P:\\Programming\\Data Base\\New folder (2)\\New folder\\S_4_DBS-main\\Pharmacy Management System\\Pharmacy\\Configuration.cs",
+              "RelativeToolTip": "Configuration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T12:05:11.553Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

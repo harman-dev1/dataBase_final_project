@@ -1,0 +1,376 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{54613839-CC63-46DF-AC8F-6760D965B26C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Pharmacy</RootNamespace>
+    <AssemblyName>Pharmacy</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BouncyCastle.Crypto, Version=1.8.9.0, Culture=neutral, PublicKeyToken=0e99375e54769942">
+      <HintPath>packages\BouncyCastle.1.8.9\lib\BouncyCastle.Crypto.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="Dapper, Version=2.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>packages\Dapper.2.0.123\lib\net461\Dapper.dll</HintPath>
+    </Reference>
+    <Reference Include="Guna.UI2, Version=2.0.4.4, Culture=neutral, PublicKeyToken=8b9d14aa5142e261, processorArchitecture=MSIL">
+      <HintPath>packages\Guna.UI2.WinForms.2.0.4.4\lib\net472\Guna.UI2.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp, Version=5.5.13.3, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>packages\iTextSharp.5.5.13.3\lib\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp.pdfa, Version=5.5.13.3, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>packages\itextsharp.pdfa.5.5.13.3\lib\itextsharp.pdfa.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="addManufecturer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="addManufecturer.Designer.cs">
+      <DependentUpon>addManufecturer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminControl_UC.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="AdminControl_UC.Designer.cs">
+      <DependentUpon>AdminControl_UC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminReportForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminReportForm.Designer.cs">
+      <DependentUpon>AdminReportForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminRequest.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="AdminRequest.Designer.cs">
+      <DependentUpon>AdminRequest.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminRequestReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminRequestReport.Designer.cs">
+      <DependentUpon>AdminRequestReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="adminRR.cs" />
+    <Compile Include="BillReport.cs" />
+    <Compile Include="Classes\BL\AdminRequestReport.cs" />
+    <Compile Include="Classes\BL\CosmeticBL.cs" />
+    <Compile Include="Classes\BL\DrugBL.cs" />
+    <Compile Include="Classes\BL\DrugSale.cs" />
+    <Compile Include="Classes\BL\ManufecturerBL.cs" />
+    <Compile Include="Classes\BL\MedicalDevicesBL.cs" />
+    <Compile Include="Classes\BL\ProductPurchase.cs" />
+    <Compile Include="Classes\BL\ProductsBL.cs" />
+    <Compile Include="Classes\BL\SaleBL.cs" />
+    <Compile Include="Classes\BL\SaleReports.cs" />
+    <Compile Include="Classes\BL\SignUpBL.cs" />
+    <Compile Include="Classes\BL\VaccineBL.cs" />
+    <Compile Include="Classes\DL\CosmeticDL.cs" />
+    <Compile Include="Classes\DL\DrugDL.cs" />
+    <Compile Include="Classes\DL\DrugSaleDL.cs" />
+    <Compile Include="Classes\DL\ManufecturerDL.cs" />
+    <Compile Include="Classes\DL\MedicalDevicesDL.cs" />
+    <Compile Include="Classes\DL\SaleDL.cs" />
+    <Compile Include="Classes\DL\SignUpDL.cs" />
+    <Compile Include="Classes\DL\VaccineDL.cs" />
+    <Compile Include="Configuration.cs" />
+    <Compile Include="Cosmetic.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cosmetic.Designer.cs">
+      <DependentUpon>Cosmetic.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CrystalReport2.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReport2.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CrystalReport3.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReport3.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CrystalReportPrdPurch.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReportPrdPurch.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Drug.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Drug.Designer.cs">
+      <DependentUpon>Drug.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EditManufecturer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditManufecturer.Designer.cs">
+      <DependentUpon>EditManufecturer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmployeeControls_UC.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="EmployeeControls_UC.Designer.cs">
+      <DependentUpon>EmployeeControls_UC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmplyeeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmplyeeForm.Designer.cs">
+      <DependentUpon>EmplyeeForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoggingIn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoggingIn.Designer.cs">
+      <DependentUpon>LoggingIn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Manufecturer.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Manufecturer.Designer.cs">
+      <DependentUpon>Manufecturer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MedicalDevice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MedicalDevice.Designer.cs">
+      <DependentUpon>MedicalDevice.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Product.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Product.Designer.cs">
+      <DependentUpon>Product.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ProductSelection.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProductSelection.Designer.cs">
+      <DependentUpon>ProductSelection.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Profile.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Profile.Designer.cs">
+      <DependentUpon>Profile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Reports.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Reports.Designer.cs">
+      <DependentUpon>Reports.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sale.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Sale.Designer.cs">
+      <DependentUpon>Sale.cs</DependentUpon>
+    </Compile>
+    <Compile Include="saleDrug.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="saleDrug.Designer.cs">
+      <DependentUpon>saleDrug.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SaleReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SaleReport.Designer.cs">
+      <DependentUpon>SaleReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SignIn.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="SignIn.Designer.cs">
+      <DependentUpon>SignIn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SignUp_UC.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="SignUp_UC.Designer.cs">
+      <DependentUpon>SignUp_UC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vaccine.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vaccine.Designer.cs">
+      <DependentUpon>Vaccine.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="addManufecturer.resx">
+      <DependentUpon>addManufecturer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminControl_UC.resx">
+      <DependentUpon>AdminControl_UC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminReportForm.resx">
+      <DependentUpon>AdminReportForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminRequest.resx">
+      <DependentUpon>AdminRequest.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminRequestReport.resx">
+      <DependentUpon>AdminRequestReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cosmetic.resx">
+      <DependentUpon>Cosmetic.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrystalReport2.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport2.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrystalReport3.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport3.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrystalReportPrdPurch.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReportPrdPurch.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Drug.resx">
+      <DependentUpon>Drug.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditManufecturer.resx">
+      <DependentUpon>EditManufecturer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmployeeControls_UC.resx">
+      <DependentUpon>EmployeeControls_UC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmplyeeForm.resx">
+      <DependentUpon>EmplyeeForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoggingIn.resx">
+      <DependentUpon>LoggingIn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Manufecturer.resx">
+      <DependentUpon>Manufecturer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MedicalDevice.resx">
+      <DependentUpon>MedicalDevice.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Product.resx">
+      <DependentUpon>Product.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProductSelection.resx">
+      <DependentUpon>ProductSelection.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Profile.resx">
+      <DependentUpon>Profile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Reports.resx">
+      <DependentUpon>Reports.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sale.resx">
+      <DependentUpon>Sale.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="saleDrug.resx">
+      <DependentUpon>saleDrug.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SaleReport.resx">
+      <DependentUpon>SaleReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SignIn.resx">
+      <DependentUpon>SignIn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SignUp_UC.resx">
+      <DependentUpon>SignUp_UC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vaccine.resx">
+      <DependentUpon>Vaccine.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\image_processing20201125-26929-gywlop.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
